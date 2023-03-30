@@ -53,10 +53,6 @@ Highly motivated Full Stack Developer with a strong foundation in computer scien
 3. **[Marsden Example Page](https://github.com/OniDredd/Marsden-Example-Project.git)**
     - A React App project practicing front-end languages and learning SASS and certain concepts of css to create a exmaple of a personal page that may be used in a portfolio.
 
-## 📞 Get in touch
-
-- Email: josh.marsden@outlook.com
-
 
 
 
