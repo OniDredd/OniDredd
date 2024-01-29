@@ -1,12 +1,16 @@
 # Joshua Marsden - Full Stack Developer
 
-Highly motivated Full Stack Developer with a strong foundation in computer science and hands-on experience in web development. Eager to apply my knowledge and creativity to develop innovative and user-friendly applications. Seeking an entry-level position in a dynamic company to further enhance my skills and contribute to the team's success.
+I'm a Full Stack Developer with a solid foundation in computer science and hands-on experience in web development gained through various projects and internships. Proficient in JavaScript, React, Node.js, and modern web technologies like NextJs and Astro, I'm dedicated to creating user-centric, scalable, and responsive applications.
+
+A quick learner and strong problem solver, I thrive on exploring new technologies and consistently enhancing my skill set. An effective communicator, I enjoy collaborating with cross-functional teams and delivering high-quality work. My goal is to leverage my passion for programming and commitment to continuous learning to create exceptional user experiences and contribute to the growth of the tech industry.
+
+Apart from coding, I'm into kickboxing and boxing as an amateur. I enjoy the thrill of the ring and using mind and body to problem solve in real time. Also, I'm curious about how the markets and global economics work.
 
 ## Skills
 
 ### Programming Languages
 - JavaScript
-- C# ( Minor Knowledge )
+- C# ( Minor Knowledge ) //Persuing more knowledge in .NET framework.
 
 ### Front-end
 - HTML5
