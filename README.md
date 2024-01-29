@@ -2,24 +2,30 @@
 
 Highly motivated Full Stack Developer with a strong foundation in computer science and hands-on experience in web development. Eager to apply my knowledge and creativity to develop innovative and user-friendly applications. Seeking an entry-level position in a dynamic company to further enhance my skills and contribute to the team's success.
 
-## 🚀 Skills
+## Skills
 
 ### Programming Languages
 - JavaScript
+- C# ( Minor Knowledge )
 
 ### Front-end
 - HTML5
 - CSS3
 - SASS
+- TailwindCss
 - React
+- Next.Js
+- Astro
 
 ### Back-end
 - Node.js
 - Express
+- Next-Connect
 
 ### Databases
 - MySQL
 - MongoDB
+- GraphQL
 
 ### Version Control
 - Git
